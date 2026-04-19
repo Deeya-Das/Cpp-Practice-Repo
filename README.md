@@ -7,6 +7,6 @@ Inside this repo (what I plan to cover):
 - Logic-building exercises
 - DSA problems and solutions
 
-This is my learning space where I’ll practice, make mistakes, and share my progress.
+This is my learning space where I’ll practice, learn from my mistakes, and grow step by step while sharing my progress.
 
 If you're also learning, feel free to explore or follow along.
